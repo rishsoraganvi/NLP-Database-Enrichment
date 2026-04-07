@@ -14,7 +14,7 @@ pnpm dev
 bun dev
 ```
 Open [https://nlp-database-enrichment.vercel.app]
-
+Open [https://nlp-database-enrichment.vercel.app/api/health] is healthcheck endpoint.
 
 You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
